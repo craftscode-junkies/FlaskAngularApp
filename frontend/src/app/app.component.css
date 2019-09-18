@@ -1,0 +1,28 @@
+.espacelimenu{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.menuleftul{
+  padding-left: 350px;
+}
+
+.adminalignright{
+  padding-left: 300px;
+}
+
+.paddingsectiontop{
+  padding-top: 30px;
+  padding-left: 80px;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #4b7cb7;
+    border-color: #fff;
+}
+
+.bg-light {
+    background-color: #d2d6de!important;
+}
